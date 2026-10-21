@@ -12,6 +12,7 @@ Se requiere un dispositivo con conexión a Internet y un navegador web moderno (
 
 ## 🎬 Videotutorial de Demostración del Sistema
 
+video src="https://youtu.be/bc33_4UQlBU?si=RHy3Z2RWi8R-YNbB"
 Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:
 
 <video src="https://youtu.be/bc33_4UQlBU?si=RHy3Z2RWi8R-YNbB" controls width="100%">
